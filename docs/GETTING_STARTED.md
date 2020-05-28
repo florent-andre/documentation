@@ -101,7 +101,7 @@ say `@augments` or `@extends`, and they'll do the same thing.
 ## Development Process
 
 If you're contributing documentation to a large project, there
-are tools to help: [eslint's valid-jsdoc](https://eslint.org/docs/rules/valid-jsdoc) rule
+are tools to help: [eslint-plugin-jsdoc](https://github.com/gajus/eslint-plugin-jsdoc) plugin
 lets you confirm the presence of, and validate, JSDoc comments as part of an
 automated style check.
 
